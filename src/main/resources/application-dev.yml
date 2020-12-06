@@ -1,0 +1,7 @@
+server:
+  port: 8086
+  
+  servlet:    context-path: /dev
+  
+welcome:
+  message: Welcome to Dev env
